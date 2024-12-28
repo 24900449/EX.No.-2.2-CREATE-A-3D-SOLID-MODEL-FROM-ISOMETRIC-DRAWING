@@ -83,7 +83,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 1.	Select Extrude.
 2.	Select the PENTAGON sketch.
 3.	Click again to place the value.
-4.	Type in the value of 10mm. 
+4.	Type in the value of 10mm.  
 5.	Press ENTER to accept the value.
 
 ## STEP-13: Create a CIRCLE 
